@@ -1,0 +1,11 @@
+ /*const router = createBrowserRouter([
+    {path: '/', element:<DesktopLayout/> , children:[
+    {path:'/',element:<Home/>},
+    {path:'/Main', element:<Main/>}]},
+    {path: '*',element:<NotFound/>},
+    {path: '/Login' , element : <Login/>},
+    {path: '/Registration' , element: <Registration/>}
+  ])
+  return (
+    <RouterProvider router={router} />
+  )*/
